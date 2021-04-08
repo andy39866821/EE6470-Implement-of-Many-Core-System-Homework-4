@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -Wall -pedantic  -rdynamic CMakeFiles/homework4.dir/Initiator.cpp.o CMakeFiles/homework4.dir/filter.cpp.o CMakeFiles/homework4.dir/main.cpp.o CMakeFiles/homework4.dir/testbench.cpp.o CMakeFiles/homework4.dir/tlm_log.cpp.o  -o homework4  -Wl,-rpath,/opt/systemc/lib /opt/systemc/lib/libsystemc.so.2.3.3 -pthread 
